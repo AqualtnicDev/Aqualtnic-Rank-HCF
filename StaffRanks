@@ -1,0 +1,88 @@
+Hello, Aquaotter here
+Weclome to the Aqualtnic Staff Ranks
+For the Aqualtnic HCF or Aqualtnic Hard Core Faction
+
+
+
+1: Owner
+
+Prefix: [Owner]
+Code Prefix: &8[&cOwner&8]
+Perms: All
+Extra Info: NONE
+
+
+
+2: GM  (Gamemode Manager)
+
+Prefix: [GM]
+Code Prefix: &8[&4Manager&8]
+Perms: ban warn mute demote promote 
+Extra Info: there can only be 1 Manager per Gamemode
+Network Apply Perms: True
+
+
+
+3. Admin+
+
+Prefix: [Admin+]
+Code Prefix: &8[&cAdmin+&8]
+Perms: ban warn mute promote demote
+Extra Info: Can be Accept as a GM if there is no GM
+Network Apply Perms: True
+
+
+4: Admin
+
+Prefix: [Admin]
+Code Prefix: &8[&cAdmin&8]
+Perms: Ban Warn Mute Promote Demote
+Extra Info:  NONE
+Network Apply Perms: false
+
+
+5: Mod+
+
+Prefix: [Mod+]
+Code Prefix: &8[&9Mod+&8]
+perms: Ban Warn Mute
+extra Info:  NONE
+Network Apply Perms: false
+
+
+
+
+
+6: Mod
+
+
+Prefix: [Mod]
+Code Prefix: &8[&dMod&8]
+Perms: Warn Mute 
+Extra Info:  NONE
+Network Apply Perms: false
+
+
+
+7: Helper
+
+
+Prefix: [Helper]
+Code Prefix: &8[&bHelper&8]
+Perms: Warn Mute
+Extra Info:  NONE
+Network Apply Perms: false
+
+8: Trial Staff
+
+
+Prefix: [Trail Staff]
+Code Prefix: &8[&3Trail Staff&8]
+Perms: Warn
+Extra Info:  NONE
+Network Apply Perms: false
+
+
+Aqualtnic  Harcore Faction Gamemode
+
+Written: Aquaotter
